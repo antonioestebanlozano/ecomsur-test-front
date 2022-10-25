@@ -1,0 +1,17 @@
+.rootWrap {
+    width: 100vw;
+    background-color: rgba(216,140,230,1);
+    padding: 20px 0px;
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.rootWrap a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 25px;
+}
